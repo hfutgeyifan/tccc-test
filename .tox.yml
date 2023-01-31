@@ -1,0 +1,10 @@
+tox:
+  type: tccc
+  target: shyfgeTest/tccc/vue3
+  dist: dist
+  wework:
+    ? chatid
+  product:
+    name: 云呼叫中心
+    id: CAT010145
+  clashKey: 01dcaeda03bb8e0b6711d08ef620b518
